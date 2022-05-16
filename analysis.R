@@ -4,5 +4,4 @@ plot(x,y)
 summary(x)
 
 mean(y)
-mean(x+y)
-c(1,2,3)
+
