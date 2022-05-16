@@ -4,3 +4,4 @@ plot(x,y)
 summary(x)
 
 mean(y)
+mean(x+y)
